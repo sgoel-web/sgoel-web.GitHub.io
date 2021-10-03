@@ -6,11 +6,6 @@ I am an Assistant Professor in the Department of Civil Engineering, Indian Insti
 
 Prior to my PhD (2012-2013), I was working as Research Assistant at IIT Kanpur where we developed an innovative technology that enabled scanning of moving objects using LiDAR (refer publication section for details).
 
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
