@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Internship Opportunities
+# Awards and Recognition
 
 ### General Instructions
 Internships are generally available for IIT-K students, however, non-IITK students can be considered on a case-to-case basis.
