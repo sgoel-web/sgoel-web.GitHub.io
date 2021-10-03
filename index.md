@@ -6,15 +6,6 @@ I am an Assistant Professor in the Department of Civil Engineering, Indian Insti
 
 Prior to my PhD (2012-2013), I was working as Research Assistant at IIT Kanpur where we developed an innovative technology that enabled scanning of moving objects using LiDAR (refer to [publications](./publications.html) for details).
 
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
 ### Definition lists can be used with HTML syntax.
 
 <dl>
