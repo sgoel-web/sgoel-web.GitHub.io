@@ -4,6 +4,12 @@ layout: default
 ## Salil Goel, Ph.D. | Assistant Professor
 ### Geoinformatics Laboratory, Department of Civil Engineering
 ### Indian Institute of Technology Kanpur
+
+I am an Assistant Professor in the Department of Civil Engineering, Indian Institute of Technology Kanpur, India. I earned my PhD jointly from The University of Melbourne, Australia and IIT Kanpur, India in the year 2017 as a MIPA (Melbourne India Postgraduate Academy) Scholar under the Joint PhD Agreement between the two institutions. I earned my B.Tech and M.Tech (specialization in Geoinformatics) from Department of Civil Engineering, IIT Kanpur under the B.Tech-M.Tech Dual Degree Program in 2011.
+
+Prior to my PhD (2012-2013), I was working as Research Assistant at IIT Kanpur where we developed an innovative technology that enabled scanning of moving objects using LiDAR (refer publication section for details).
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
