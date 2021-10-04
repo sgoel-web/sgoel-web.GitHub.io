@@ -5,9 +5,11 @@ layout: default
 # Publications in Journals and Proceedings
 
 ## Refereed Journal Publications
-1. A. Masiero, H. Perakis, J. Gabela, C. Toth, V. Gikas, G. Retscher, **S. Goel**, A. Kealy, Z. Koppanyi, W. Blaszczak-Bak, Y. Li and D. Grejner-Brzezinska, Indoor Navigation and Mapping: Performance Analysis of UWB-based Platform Positioning, ISPRS Archives of Photogrammetry Remote Sensing and Spatial Information Science, ISPRS Congress, Nice, France, **2020**.
+1. S. Dey, S. Winter, **S. Goel** and M. Tomko, Identication of Parking Spaces from Multi-Modal Trajectory Data, Transactions in GIS, **2021** (Accepted, In press)
 
-2. A. Yadav, **S. Goel**, B. Lohani and S. Singh, A UAV Traffic Management System for India: Requirement and Preliminary Analysis, Journal of the Indian Society of Remote Sensing, **2020**
+2. S. Dayal, **S. Goel**, B. Lohani, N. Mittal and R. K. Mishra, Comprehensive Airborne Laser Scanning Simulation, Journal of the Indian Society of Remote Sensing, **2021**, DOI: 10.1007/s12524-021-01334-5.
+
+3. A. Yadav, **S. Goel**, B. Lohani and S. Singh, A UAV Traffic Management System for India: Requirement and Preliminary Analysis, Journal of the Indian Society of Remote Sensing, **2020**
 
 4. G. Retscher, A. Kealy, V. Gikas, J. Gabela, **S. Goel**, Y. Li, A. Masiero, C. Toth, H. Perakis, W. Blaszczak-Bak, Z. Koppanyi, and D. G. Brzezinska, A Benchmarking Measurement Campaign to Support Ubiquitous Localizaion in GNSS Denied and Indoor Environments, International Association of Geodesy Symposia. Springer, Berlin, Heidelberg, **2020**, DOI: 10.1007/1345 2020 102.
 
@@ -21,13 +23,13 @@ layout: default
 
 9. **S. Goel**, A. Kealy and B. Lohani, Posterior Cramér Rao Bounds for Cooperative Localization in Low-Cost UAV Swarms, Journal of the Indian Society of Remote Sensing, **2018**, doi: 10.1007/s12524-018-0899-3.
 
-16. **S. Goel**, A. Kealy, Gikas, V., G. Retscher, C. Toth, D. Brzezinska, and B. Lohani, Cooperative Localization of UAVs using GNSS, MEMS Inertial and UWB Sensors, ASCE Journal of Surveying Engineering, vol. 143, Issue 4, **2017**.
+10. **S. Goel**, A. Kealy, Gikas, V., G. Retscher, C. Toth, D. Brzezinska, and B. Lohani, Cooperative Localization of UAVs using GNSS, MEMS Inertial and UWB Sensors, ASCE Journal of Surveying Engineering, vol. 143, Issue 4, **2017**.
 
-20. **S. Goel** and B. Lohani, Relative contribution and effect of various error sources on the performance of Mobile Mapping System (MMS), Journal of Indian Society of Remote Sensing (JISRS), doi:10.1007/s12524-014-0443-z, **2015**.
+11. **S. Goel** and B. Lohani, Relative contribution and effect of various error sources on the performance of Mobile Mapping System (MMS), Journal of Indian Society of Remote Sensing (JISRS), doi:10.1007/s12524-014-0443-z, **2015**.
 
-23. M. Yadav, **S. Goel**, A.K. Singh, and B. Lohani, Developing basic design and mathematical framework for a Mobile Mapping System- A case study using available sensors, Journal of Indian Society of Remote Sensing (JISRS), Volume 42, Issue 2, pp 301-310, **2014**.
+12. M. Yadav, **S. Goel**, A.K. Singh, and B. Lohani, Developing basic design and mathematical framework for a Mobile Mapping System- A case study using available sensors, Journal of Indian Society of Remote Sensing (JISRS), Volume 42, Issue 2, pp 301-310, **2014**.
 
-24. **S. Goel** and B. Lohani, A Motion Correction Technique for Laser Scanning of Moving Objects, IEEE Geoscience and Remote Sensing Letters (GRSL), Volume 11, Issue-1, pp. 225- 228, **2014**.
+13. **S. Goel** and B. Lohani, A Motion Correction Technique for Laser Scanning of Moving Objects, IEEE Geoscience and Remote Sensing Letters (GRSL), Volume 11, Issue-1, pp. 225- 228, **2014**.
 
 
 ### Internships/Broad areas
