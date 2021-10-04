@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Publications in Journals and Proceedings
+# Journal Publications and Edited Books
 
 ## Refereed Journal Publications
 1. S. Dey, S. Winter, **S. Goel** and M. Tomko, Identication of Parking Spaces from Multi-Modal Trajectory Data, Transactions in GIS, **2021** (Accepted, In press)
@@ -30,24 +30,7 @@ layout: default
 12. **S. Goel** and B. Lohani, [A Motion Correction Technique for Laser Scanning of Moving Objects](https://ieeexplore.ieee.org/abstract/document/6522133), IEEE Geoscience and Remote Sensing Letters (GRSL), Volume 11, Issue-1, pp. 225- 228, **2014**.
 
 
-### Internships/Broad areas
-
-1. Internships are available in following broad areas.
-2. Indoor localization using Signals of Opportunity (SOP).
-3. Navigation and mapping in indoor environments using LiDAR.
-4. Collaborative inertial navigation system
-5. UAV Traffic Management System for India
-
-
-### How to proceed?
-If you are interested in any of the above projects, drop me an email. Make sure to mention the topic you would like to work on, and include your CV and transcripts.
-
-If you have any other idea (not listed above) that you find interesting and would like to pursue, let me know and we will schedule a discussion!
-
-
-### Internship Duration and Deliverables
-
-Internships are available during the summer term (May-July) and should be at least 2 months long.
-At the end of the internship, you are expected to make a presentation, submit an internship report as well as the developed 'product'.
+## Books Edited
+1. S. Winter and **S. Goel** (Eds.), [Smart Parking in Fast Growing Cities: Challenges and Solutions](https://www.tuwien.at/academicpress/en/product/smart-parking-in-fast-growing-cities-ebook/), Wien: TU Wien Academic Press, **2021**, DOI: 10.34727/2021/isbn.978-3-85448-045-7.
 
 [back](./)
