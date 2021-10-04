@@ -33,4 +33,6 @@ layout: default
 ## Books Edited
 1. S. Winter and **S. Goel** (Eds.), [Smart Parking in Fast Growing Cities: Challenges and Solutions](https://www.tuwien.at/academicpress/en/product/smart-parking-in-fast-growing-cities-ebook/), Wien: TU Wien Academic Press, **2021**, DOI: 10.34727/2021/isbn.978-3-85448-045-7.
 
+[Click here](https://scholar.google.co.in/citations?user=a3gmiy0AAAAJ&hl=en) to see the complete list of publications.
+
 [back](./)
