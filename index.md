@@ -7,6 +7,7 @@ I am an _Assistant Professor_ in the Department of Civil Engineering, Indian Ins
 Prior to my PhD (2012-2013), I was working as Research Assistant at IIT Kanpur where we developed an innovative technology that enabled scanning of moving objects using LiDAR (refer to [publications](./publications.html) for details).
 
 * * *
+### Recent news:
 Our new book titled "Smart Parking in Fast Growing Cities: Challenges and Solutions" published by TU Wien Academic Press is now available online. [Click here to access the book](https://www.tuwien.at/academicpress/en/product/smart-parking-in-fast-growing-cities-ebook/).
 
 This book is the result of a project funded by Government of India, called "Advanced Parking Information and Management for Indian Traffic", a collaboration between IIT Kanpur and The University of Melbourne.
