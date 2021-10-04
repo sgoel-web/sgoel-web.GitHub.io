@@ -4,10 +4,15 @@ layout: default
 
 # Contact Information
 Geoinformatics Laboratory (PEB - Block B)
+
 Department of Civil Engineering
+
 Indian Institute of Technology Kanpur
+
 Kanpur, Uttar Pradesh - 208016, INDIA
-Email: sgoel@iitk.ac.in
+
+Email: [sgoel@iitk.ac.in](mailto:sgoel@iitk.ac.in)
+
 Phone (O): +91 512 679 6179
 ### Connect with me on social media:
 [![image1](/assets/img/google_scholar.png)](https://scholar.google.co.in/citations?user=a3gmiy0AAAAJ&hl=en)
