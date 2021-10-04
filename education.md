@@ -15,7 +15,7 @@ Indian Institute of Technology Kanpur <br>
 Thesis: [Camera Integration for the Development of Land Based Mobile Mapping System](https://etd.iitk.ac.in:8443/jspui/handle/123456789/12272)
 
 
-# Teaching
+## Teaching
 I have taught the following courses (UG and PG) at IIT Kanpur.
 
 1. **HSO201A**: Applied Probability and Statistics (Tutor)
