@@ -4,29 +4,26 @@ layout: default
 
 # Education and Teaching
 
-### General Instructions
-Internships are generally available for IIT-K students, however, non-IITK students can be considered on a case-to-case basis.
-If you are a non-IITK student with an exceptional academic record, you may be offered an internship. Make sure to read the information given at this link before sending an email to me.
+## Education
+**Ph.D., Infrastructure Engineering/ Civil Engineering (Geoinformatics)**
+The University of Melbourne and IIT Kanpur (under [MIPA] (https://mipa.unimelb.edu.au/))
+Thesis: [Cooperative Localisation of Unmanned Aerial Vehicles using Low-Cost Sensors](https://www.google.com/url?q=https%3A%2F%2Fminerva-access.unimelb.edu.au%2Fhandle%2F11343%2F197984&sa=D&sntz=1&usg=AFQjCNFXB8iz2mvas1FqRQqlW_BAiBAhuw)
+
+**B. Tech M.Tech (Dual), Civil Engineering (Geoinformatics)**
+Indian Institute of Technology Kanpur
+Thesis: [Camera Integration for the Development of Land Based Mobile Mapping System](https://etd.iitk.ac.in:8443/jspui/handle/123456789/12272)
 
 
-### Internships/Broad areas
+# Teaching
+I have taught the following courses at IIT Kanpur.
 
-1. Internships are available in following broad areas.
-2. Indoor localization using Signals of Opportunity (SOP).
-3. Navigation and mapping in indoor environments using LiDAR.
-4. Collaborative inertial navigation system
-5. UAV Traffic Management System for India
-
-
-### How to proceed?
-If you are interested in any of the above projects, drop me an email. Make sure to mention the topic you would like to work on, and include your CV and transcripts.
-
-If you have any other idea (not listed above) that you find interesting and would like to pursue, let me know and we will schedule a discussion!
-
-
-### Internship Duration and Deliverables
-
-Internships are available during the summer term (May-July) and should be at least 2 months long.
-At the end of the internship, you are expected to make a presentation, submit an internship report as well as the developed 'product'.
+1. HSO201A: Applied Probability and Statistics (Tutor)
+2. CE677B: Introduction to Inertial and Multi-Sensor Navigation
+3. CE676A: Laser Scanning and Photogrammetry
+4. CE432A: Geographical Information Systems
+5. CE673A: Instrumentation, Laboratory and Field Practices in Geoinformatics
+6. CE332A: Survey Camp
+7. CE671A: Introduction to Remote Sensing
+8. CE331A: Geoinformatics
 
 [back](./)
