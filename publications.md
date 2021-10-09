@@ -5,7 +5,7 @@ layout: default
 # Journal Publications and Edited Books
 
 ## Refereed Journal Publications
-1. S. Dey, S. Winter, **S. Goel** and M. Tomko, Identication of Parking Spaces from Multi-Modal Trajectory Data, Transactions in GIS, **2021** (Accepted, In press)
+1. S. Dey, S. Winter, **S. Goel** and M. Tomko, [Identification of Parking Spaces from Multi-Modal Trajectory Data](https://onlinelibrary.wiley.com/share/author/XTJKYB4M6BTIF4CX3WHG?target=10.1111/tgis.12811), Transactions in GIS,**2021** (Accepted, In press)
 
 2. S. Dayal, **S. Goel**, B. Lohani, N. Mittal and R. K. Mishra, [Comprehensive Airborne Laser Scanning Simulation](https://link.springer.com/article/10.1007/s12524-021-01334-5), Journal of the Indian Society of Remote Sensing, **2021**, DOI: 10.1007/s12524-021-01334-5.
 
