@@ -11,7 +11,7 @@ layout: default
 
 3. A. Yadav, **S. Goel**, B. Lohani and S. Singh, [A UAV Traffic Management System for India: Requirement and Preliminary Analysis](https://link.springer.com/article/10.1007/s12524-020-01226-0), Journal of the Indian Society of Remote Sensing, **2020**, DOI: 10.1007/s12524-020-01226-0
 
-4. G. Retscher, A. Kealy, V. Gikas, J. Gabela, **S. Goel**, Y. Li, A. Masiero, C. Toth, H. Perakis, W. Blaszczak-Bak, Z. Koppanyi, and D. G. Brzezinska, [A Benchmarking Measurement Campaign to Support Ubiquitous Localizaion in GNSS Denied and Indoor Environments](https://link.springer.com/chapter/10.1007/1345_2020_102), International Association of Geodesy Symposia. Springer, Berlin, Heidelberg, **2020**, DOI: 10.1007/1345 2020 102.
+4. G. Retscher, A. Kealy, V. Gikas, J. Gabela, **S. Goel**, Y. Li, A. Masiero, C. Toth, H. Perakis, W. Blaszczak-Bak, Z. Koppanyi, and D. G. Brzezinska, [A Benchmarking Measurement Campaign to Support Ubiquitous Localizaion in GNSS Denied and Indoor Environments](https://link.springer.com/chapter/10.1007/1345_2020_102), International Association of Geodesy Symposia. Springer, Berlin, Heidelberg, **2020**, DOI: 10.1007/1345_2020_102.
 
 5. G. Retscher, A. Kealy, J. Gabela, Y. Li, **S. Goel**, C. Toth, A. Masiero, W. Blaszczak-Bak, V. Gikas, H. Perakis, Z. Koppanyi, and D. G. Brzezinska, [A Benchmarking Measurement Campaign in GNSS-denied/challenged Indoor/Outdoor and Transitional Environments](https://www.degruyter.com/document/doi/10.1515/jag-2019-0031/html), Journal of Applied Geodesy, **2020**, DOI: 10.1515/jag-2019-0031.
 
