@@ -16,4 +16,4 @@ This book is the result of a project funded by Government of India, called "_Adv
 
 * * *
 ### Links:
-[IIT Kanpur](https://www.iitk.ac.in/)           [Department of Civil Engineering](https://www.iitk.ac.in/ce)        [Geoinformatics Laboratory](https://gi-iitk.github.io/)
+[IIT Kanpur](https://www.iitk.ac.in/)&nbsp;&nbsp;&nbsp;&nbsp;[Department of Civil Engineering](https://www.iitk.ac.in/ce)&nbsp;&nbsp;&nbsp;&nbsp;[Geoinformatics Laboratory](https://gi-iitk.github.io/)
