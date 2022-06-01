@@ -11,11 +11,12 @@ If you are a non-IITK student with an exceptional academic record, you may be of
 
 ### Internships/Broad areas
 
-1. Internships are available in following broad areas.
-2. Indoor localization using Signals of Opportunity (SOP).
-3. Navigation and mapping in indoor environments using LiDAR.
-4. Collaborative inertial navigation system
-5. UAV Traffic Management System for India
+Internships are available in following broad areas.
+
+1. Indoor localization using Signals of Opportunity (SOP).
+2. Navigation and mapping in indoor environments using LiDAR.
+3. Collaborative inertial navigation system
+4. UAV Traffic Management System for India
 
 
 ### How to proceed?
