@@ -9,7 +9,7 @@ Prior to my PhD (2012-2013), I was working as Research Assistant at IIT Kanpur w
 * * *
 ### Recent news:
 * **[2022]** Our paper titled ["**Comprehensive Airborne Laser Scanning Simulation**"](https://link.springer.com/article/10.1007/s12524-021-01334-5) by [Shikhar Dayal](https://in.linkedin.com/in/shikhardayal24) has won the **JISRS Best Paper Award 2021**. The award will be presented at ISRS-ISG Annual Convention and ISRS National Symposium on November 15, 2022.
-* 
+
 * **[2022]** Our new paper titled "**Zero Velocity Detection in Foot-mounted Inertial Sensors: Novel method for generating zero velocity labels and a comparative analysis of data driven methods**" is now accepted at [FIG Congress 2022](https://www.fig.net/fig2022/) and will be presented by [Ashwani Kumar](https://www.linkedin.com/in/ashwani-kumar-a54609105/). [Click here to access the paper](https://www.fig.net/resources/proceedings/fig_proceedings/fig2022/papers/ts04g/TS04G_kumar_singh_et_al_11541.pdf).
 
 * **[2021]** Our new paper titled "**Identification of parking spaces from multi-modal trajectory data**" is now published in "Transactions in GIS". [Click here to access the paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/tgis.12811).
