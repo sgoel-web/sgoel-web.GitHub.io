@@ -8,9 +8,9 @@ Prior to my PhD (2012-2013), I was working as Research Assistant at IIT Kanpur w
 
 * * *
 ### Recent news:
-* **[2024]** Received SPARC - Phase 3 grant in collaboration with University of Melbourne, Australia for `Pedestrian Safety in Smart Cities using LiDAR and Camera'.
+* **[2024]** Received SPARC - Phase 3 grant in collaboration with University of Melbourne, Australia for 'Pedestrian Safety in Smart Cities using LiDAR and Camera'.
   
-* **[2024]** Received SPARC - Phase 3 grant in collaboration with IIT Delhi and Purdue University, USA for `UAV based monitoring system for infrastructure projects using deep learning models'.
+* **[2024]** Received SPARC - Phase 3 grant in collaboration with IIT Delhi and Purdue University, USA for 'UAV based monitoring system for infrastructure projects using deep learning models'.
   
 * **[2022]** Our paper titled ["**Comprehensive Airborne Laser Scanning Simulation**"](https://link.springer.com/article/10.1007/s12524-021-01334-5) by [Shikhar Dayal](https://in.linkedin.com/in/shikhardayal24) has won the **JISRS Best Paper Award 2021**. The award will be presented at [ISRS-ISG Annual Convention and ISRS National Symposium](https://geosmartindia.net/2022/index.html) on November 15, 2022.
 
