@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Awards and Recognition
+# Selected Awards and Recognition
 
 1. **INAE Young Associate 2024** by Indian National Academy of Engineering (INAE), New Delhi.
   
