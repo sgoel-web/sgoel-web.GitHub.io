@@ -3,7 +3,9 @@ layout: default
 ---
 
 # Contact Information
-Geoinformatics Laboratory (PEB - Block B)
+504, ESB - 1
+
+Geoinformatics Laboratory
 
 Department of Civil Engineering
 
