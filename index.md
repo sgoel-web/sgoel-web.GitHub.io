@@ -9,6 +9,8 @@ Prior to my PhD (2012-2013), I was working as Research Assistant at IIT Kanpur w
 * * *
 ### Recent news:
 * **[2025]** Our recent works on road surface roughness, and road and sidewalk detection using bicycle based LiDAR are now online. [Click here](https://isprs-annals.copernicus.org/articles/X-G-2025/839/2025/isprs-annals-X-G-2025-839-2025.pdf) and [Here](https://isprs-archives.copernicus.org/articles/XLVIII-G-2025/197/2025/isprs-archives-XLVIII-G-2025-197-2025.pdf) to access the papers.
+
+* **[2025]** Our work investigating the impact of on-street parking on traffic, led by [Prashant Chauhan](https://www.linkedin.com/in/prashant-chauhan-32a453193/) is now online. [Click here to access the paper](https://agile-giss.copernicus.org/articles/6/17/2025/).
   
 * **[2024]** Our recent work on foot mounted UWB sensors for pedestrian localization led by [Ashwani Kumar](https://www.linkedin.com/in/ashwani-kumar-a54609105/) is published by ION GNSS+ 2024. [Click here to access the paper](https://www.ion.org/publications/abstract.cfm?articleID=19776).
 
