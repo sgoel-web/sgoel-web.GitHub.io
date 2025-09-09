@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Contact Information
-504, ESB - 1
+Room Number - 504, ESB - 1
 
 Geoinformatics Laboratory
 
