@@ -8,6 +8,9 @@ Prior to my PhD (2012-2013), I was working as Research Assistant at IIT Kanpur w
 
 * * *
 ### Recent news:
+
+* **[2026]** We have been granted a patent "An Artificial Intelligence Based System for Monitoring and Analyzing Air Quality". (Patent number: 582461).
+  
 * **[2025]** Our recent work on 'Impact-Driven Multi-Criteria Decision Appraoch for Strategic On-Street Parking Placement" is now online [Click here](https://isprs-annals.copernicus.org/articles/X-5-W2-2025/95/2025/) to access the paper.
   
 * **[2025]** Our recent works on road surface roughness, and road and sidewalk detection using bicycle based LiDAR are now online. [Click here](https://isprs-annals.copernicus.org/articles/X-G-2025/839/2025/isprs-annals-X-G-2025-839-2025.pdf) and [Here](https://isprs-archives.copernicus.org/articles/XLVIII-G-2025/197/2025/isprs-archives-XLVIII-G-2025-197-2025.pdf) to access the papers.
@@ -23,15 +26,6 @@ Prior to my PhD (2012-2013), I was working as Research Assistant at IIT Kanpur w
 * **[2024]** Received SPARC - Phase 3 grant in collaboration with University of Melbourne, Australia for 'Pedestrian Safety in Smart Cities using LiDAR and Camera'.
   
 * **[2024]** Received SPARC - Phase 3 grant in collaboration with IIT Delhi and Purdue University, USA for 'UAV based monitoring system for infrastructure projects using deep learning models'.
-  
-* **[2022]** Our paper titled ["**Comprehensive Airborne Laser Scanning Simulation**"](https://link.springer.com/article/10.1007/s12524-021-01334-5) by [Shikhar Dayal](https://in.linkedin.com/in/shikhardayal24) has won the **JISRS Best Paper Award 2021**. The award will be presented at [ISRS-ISG Annual Convention and ISRS National Symposium](https://geosmartindia.net/2022/index.html) on November 15, 2022.
-
-* **[2022]** Our new paper titled "**Zero Velocity Detection in Foot-mounted Inertial Sensors: Novel method for generating zero velocity labels and a comparative analysis of data driven methods**" is now accepted at [FIG Congress 2022](https://www.fig.net/fig2022/) and will be presented by [Ashwani Kumar](https://www.linkedin.com/in/ashwani-kumar-a54609105/). [Click here to access the paper](https://www.fig.net/resources/proceedings/fig_proceedings/fig2022/papers/ts04g/TS04G_kumar_singh_et_al_11541.pdf).
-
-* **[2021]** Our new paper titled "**Identification of parking spaces from multi-modal trajectory data**" is now published in "Transactions in GIS". [Click here to access the paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/tgis.12811).
-
-* **[2021]** Our new book titled "**Smart Parking in Fast Growing Cities: Challenges and Solutions**" published by [TU Wien Academic Press](https://www.tuwien.at/academicpress/) is now available online. [Click here to access the book](https://www.tuwien.at/academicpress/en/product/smart-parking-in-fast-growing-cities-ebook/).<br>
-This book is the result of a project funded by Government of India, called "_Advanced Parking Information and Management for Indian Traffic_", a collaboration between IIT Kanpur and The University of Melbourne.
 
 
 * * *
