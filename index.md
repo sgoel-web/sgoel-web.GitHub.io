@@ -30,4 +30,4 @@ Prior to my PhD (2012-2013), I was working as Research Assistant at IIT Kanpur w
 
 * * *
 ### Links:
-[IIT Kanpur Homepage]([https://www.iitk.ac.in/](https://www.iitk.ac.in/salil-goel))&nbsp;|&nbsp;[Department of Civil Engineering](https://www.iitk.ac.in/ce)&nbsp;|&nbsp;[Geoinformatics Laboratory](https://gi-iitk.github.io/)
+[IIT Kanpur Homepage](https://www.iitk.ac.in/salil-goel)&nbsp;|&nbsp;[Department of Civil Engineering](https://www.iitk.ac.in/ce)&nbsp;|&nbsp;[Geoinformatics Laboratory](https://gi-iitk.github.io/)
