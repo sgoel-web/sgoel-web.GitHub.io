@@ -8,7 +8,8 @@ Prior to my PhD (2012-2013), I was working as Research Assistant at IIT Kanpur w
 
 * * *
 ### Recent news:
-
+* **[2026]** Our latest target-less multi-LiDAR extrinsic calibration framework called 'ExCalibR' is now online. [Click here](https://www.tandfonline.com/doi/full/10.1080/01431161.2026.2661836) to access the paper. This work is led by [Surbhi Barnwal](https://in.linkedin.com/in/surbhi-barnwal-945ba4136) and partly supported by ISRO (Through Space Technology Cell (STC)).
+  
 * **[2026]** We have been granted a patent "An Artificial Intelligence Based System for Monitoring and Analyzing Air Quality". (Patent number: 582461).
   
 * **[2025]** Our recent work on 'Impact-Driven Multi-Criteria Decision Appraoch for Strategic On-Street Parking Placement" is now online [Click here](https://isprs-annals.copernicus.org/articles/X-5-W2-2025/95/2025/) to access the paper.
