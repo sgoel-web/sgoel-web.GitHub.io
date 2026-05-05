@@ -8,7 +8,7 @@ layout: default
 
 1. S. Barnwal and **S. Goel**, [ExCalibR: A targetless multi-LiDAR extrinsic calibration framework for diverse environments](https://doi.org/10.1080/01431161.2026.2661836), International Journal of Remote Sensing, **2026**, DOI: 10.1080/01431161.2026.2661836.
 
-2. M. Yadav, B. Lohani and **S. Goel**, [Geometric and Radiometric Constraints-based Extraction of Urban Road Manhole Covers and their Maintenance-related Information using Mobile Laser Scanning Data](https://doi.org/10.1080/10106049.2022.2115151), Geocarto International, **2022*, DOI:  10.1080/10106049.2022.2115151
+2. M. Yadav, B. Lohani and **S. Goel**, [Geometric and Radiometric Constraints-based Extraction of Urban Road Manhole Covers and their Maintenance-related Information using Mobile Laser Scanning Data](https://doi.org/10.1080/10106049.2022.2115151), Geocarto International, **2022**, DOI:  10.1080/10106049.2022.2115151
   
 3. S. Dey, S. Winter, **S. Goel** and M. Tomko, [Identification of Parking Spaces from Multi-Modal Trajectory Data](https://onlinelibrary.wiley.com/doi/abs/10.1111/tgis.12811), Transactions in GIS, **2021**, DOI: 10.1111/tgis.12811
 
