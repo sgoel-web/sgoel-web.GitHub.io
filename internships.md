@@ -30,7 +30,8 @@ If you have any other idea (not listed above) that you find interesting and woul
 Internships are available during the summer term (May-July) and should be at least 2 months long.
 At the end of the internship, you are expected to make a presentation, submit an internship report as well as the developed 'product'.
 
-***
-Last updated: July 14, 2026
 
 [back](./)
+
+***
+Last updated: July 14, 2026
