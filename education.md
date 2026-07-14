@@ -28,7 +28,7 @@ I have taught the following courses (UG and PG) at IIT Kanpur.
 8. **CE331A**: Geoinformatics
 
 
+[back](./)
+
 ***
 Last updated: July 14, 2026
-
-[back](./)
