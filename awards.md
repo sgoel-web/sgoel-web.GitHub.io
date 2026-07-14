@@ -33,8 +33,7 @@ layout: default
 14. **TIF Travel Award** awarded by The ISPRS Foundation (2014).
 
 
+[back](./)
 
 ***
 Last updated: July 14, 2026
-
-[back](./)
