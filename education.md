@@ -27,4 +27,7 @@ I have taught the following courses (UG and PG) at IIT Kanpur.
 7. **CE671A**: Introduction to Remote Sensing
 8. **CE331A**: Geoinformatics
 
+
+
+Last updated: July 14, 2026
 [back](./)
