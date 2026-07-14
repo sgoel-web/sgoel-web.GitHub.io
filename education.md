@@ -30,4 +30,5 @@ I have taught the following courses (UG and PG) at IIT Kanpur.
 
 
 Last updated: July 14, 2026
+
 [back](./)
